@@ -1,0 +1,4 @@
+Dogovor o vlgah:
+ - Lan (A): razvoj in opis dejavnosti
+ - Lan (B): pravilniki in kadrovski postopki
+ - Lan (C): inventura in nadzor nad opremo
