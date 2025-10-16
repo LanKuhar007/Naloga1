@@ -1,2 +1,8 @@
+Ime: Lan Kuhar (A)
+Kontakt: lan.kuhar@student.um.si
+
 Ime: Lan Kuhar (B)
+Kontakt: lan.kuhar@student.um.si
+
+Ime: Lan Kuhar (C)
 Kontakt: lan.kuhar@student.um.si
